@@ -11,7 +11,7 @@ export default function HomeNavigation() {
 
             <Link
                 className="bg-lime-500 text-slate-800 p-2 uppercase font-black text-xs cursor-pointer rounded"
-                to='/auth/login'
+                to='/auth/register'
             >Registrarme
             </Link>
         </>
